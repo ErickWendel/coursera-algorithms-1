@@ -21,7 +21,7 @@ class quick_union_weighted:
         for i in range(0, n):
 
             self._id[i] = i
-
+            self._sz[i] = 1
     def root(self, i):
         while i != self._id[i]:
 
@@ -72,6 +72,17 @@ quick.union2(7,3)
 for i in range(0, len(quick._id)):
     print("[%d] = [%d]" % (i, quick._id[i]));
 
-
+# output
+# [0] = [6]
+# [1] = [2]
+# [2] = [6]
+# [3] = [4]
+# [4] = [6]
+# [5] = [6]
+# [6] = [6]
+# [7] = [2]
+# [8] = [4]
+# [9] = [4]
+# [10] = [10]
 
 
