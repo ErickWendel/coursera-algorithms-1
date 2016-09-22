@@ -23,9 +23,7 @@ class quick_union_weighted:
             # Two-pass implementation:
             #   add second loop to root() to set the id[] of each examined node to the root.
             # Simpler one-pass variant: Make every other node in path point to its grandparent (thereby halving path length).
-            if self._id[i] != self._id[self._id[i]]:
-                print("self._id[i] = [%d], self._id[self._id[i]] = [%d]" % (self._id[i], self._id[self._id[i]]))
-
+            
             self._id[i] = self._id[self._id[i]]
             i = self._id[i]
 

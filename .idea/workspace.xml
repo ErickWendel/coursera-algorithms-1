@@ -24,8 +24,8 @@
       <file leaf-file-name="4 - Path Compression Weighted QuickUnion.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week-01/union-find/4 - Path Compression Weighted QuickUnion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3746898">
-              <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.29528537">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -409,11 +409,6 @@
           <line>48</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/week-01/union-find/4 - Path Compression Weighted QuickUnion.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -509,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week-01/union-find/4 - Path Compression Weighted QuickUnion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3746898">
-          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.29528537">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding />
         </state>
       </provider>
